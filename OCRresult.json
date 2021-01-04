@@ -1,11 +1,1742 @@
 {
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
-  "movies": [
-    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
-    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
-    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
-    { "id": "4", "title": "Inception", "releaseYear": "2010" },
-    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
-  ]
-}
+    "blocks": [
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        1464,
+        15
+       ],
+       [
+        1669,
+        1
+       ],
+       [
+        1672,
+        46
+       ],
+       [
+        1467,
+        61
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          1464,
+          15
+         ],
+         [
+          1669,
+          0
+         ],
+         [
+          1672,
+          46
+         ],
+         [
+          1467,
+          61
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            1464,
+            15
+           ],
+           [
+            1669,
+            0
+           ],
+           [
+            1672,
+            46
+           ],
+           [
+            1467,
+            61
+           ]
+          ],
+          "text": "16.700",
+          "boundingBox": [
+           1464,
+           0,
+           1672,
+           61
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         1464,
+         0,
+         1672,
+         61
+        ],
+        "text": "16.700"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       1464,
+       1,
+       1672,
+       61
+      ],
+      "text": "16.700"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        211,
+        58
+       ],
+       [
+        655,
+        50
+       ],
+       [
+        656,
+        97
+       ],
+       [
+        211,
+        105
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          211,
+          58
+         ],
+         [
+          655,
+          49
+         ],
+         [
+          655,
+          96
+         ],
+         [
+          211,
+          105
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            211,
+            58
+           ],
+           [
+            655,
+            49
+           ],
+           [
+            655,
+            96
+           ],
+           [
+            211,
+            105
+           ]
+          ],
+          "text": "9556001215932",
+          "boundingBox": [
+           211,
+           49,
+           655,
+           105
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         211,
+         49,
+         655,
+         105
+        ],
+        "text": "9556001215932"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       211,
+       50,
+       656,
+       105
+      ],
+      "text": "9556001215932"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        872,
+        41
+       ],
+       [
+        1067,
+        37
+       ],
+       [
+        1068,
+        83
+       ],
+       [
+        872,
+        87
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          872,
+          41
+         ],
+         [
+          1067,
+          36
+         ],
+         [
+          1067,
+          82
+         ],
+         [
+          872,
+          87
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            872,
+            41
+           ],
+           [
+            1067,
+            36
+           ],
+           [
+            1067,
+            82
+           ],
+           [
+            872,
+            87
+           ]
+          ],
+          "text": "16.700",
+          "boundingBox": [
+           872,
+           36,
+           1067,
+           87
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         872,
+         36,
+         1067,
+         87
+        ],
+        "text": "16.700"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       872,
+       37,
+       1068,
+       87
+      ],
+      "text": "16.700"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        1253,
+        29
+       ],
+       [
+        1269,
+        29
+       ],
+       [
+        1267,
+        72
+       ],
+       [
+        1251,
+        71
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          1253,
+          29
+         ],
+         [
+          1269,
+          29
+         ],
+         [
+          1266,
+          71
+         ],
+         [
+          1250,
+          71
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            1253,
+            29
+           ],
+           [
+            1269,
+            29
+           ],
+           [
+            1266,
+            71
+           ],
+           [
+            1250,
+            71
+           ]
+          ],
+          "text": "1",
+          "boundingBox": [
+           1250,
+           29,
+           1269,
+           71
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         1250,
+         29,
+         1269,
+         71
+        ],
+        "text": "1"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       1251,
+       29,
+       1269,
+       72
+      ],
+      "text": "1"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        200,
+        215
+       ],
+       [
+        935,
+        195
+       ],
+       [
+        946,
+        590
+       ],
+       [
+        210,
+        611
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          212,
+          215
+         ],
+         [
+          935,
+          194
+         ],
+         [
+          936,
+          252
+         ],
+         [
+          213,
+          273
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            212,
+            216
+           ],
+           [
+            345,
+            212
+           ],
+           [
+            346,
+            267
+           ],
+           [
+            213,
+            271
+           ]
+          ],
+          "text": "TONG",
+          "boundingBox": [
+           212,
+           212,
+           346,
+           271
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            390,
+            211
+           ],
+           [
+            521,
+            207
+           ],
+           [
+            522,
+            264
+           ],
+           [
+            391,
+            268
+           ]
+          ],
+          "text": "TIËN",
+          "boundingBox": [
+           390,
+           207,
+           522,
+           268
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            562,
+            206
+           ],
+           [
+            693,
+            202
+           ],
+           [
+            694,
+            259
+           ],
+           [
+            563,
+            263
+           ]
+          ],
+          "text": "PHÁI",
+          "boundingBox": [
+           562,
+           202,
+           694,
+           263
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            736,
+            201
+           ],
+           [
+            935,
+            195
+           ],
+           [
+            936,
+            250
+           ],
+           [
+            737,
+            256
+           ]
+          ],
+          "text": "T.TOÁN",
+          "boundingBox": [
+           736,
+           195,
+           936,
+           256
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         212,
+         194,
+         936,
+         273
+        ],
+        "text": "TONG TIËN PHÁI T.TOÁN"
+       },
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          210,
+          295
+         ],
+         [
+          345,
+          293
+         ],
+         [
+          345,
+          351
+         ],
+         [
+          210,
+          353
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            210,
+            295
+           ],
+           [
+            345,
+            293
+           ],
+           [
+            345,
+            351
+           ],
+           [
+            210,
+            353
+           ]
+          ],
+          "text": "TONG",
+          "boundingBox": [
+           210,
+           293,
+           345,
+           353
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         210,
+         293,
+         345,
+         353
+        ],
+        "text": "TONG"
+       },
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          208,
+          383
+         ],
+         [
+          695,
+          368
+         ],
+         [
+          696,
+          427
+         ],
+         [
+          209,
+          442
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            208,
+            383
+           ],
+           [
+            343,
+            378
+           ],
+           [
+            344,
+            434
+           ],
+           [
+            209,
+            439
+           ]
+          ],
+          "text": "TIEN",
+          "boundingBox": [
+           208,
+           378,
+           344,
+           439
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            384,
+            378
+           ],
+           [
+            555,
+            372
+           ],
+           [
+            556,
+            430
+           ],
+           [
+            385,
+            436
+           ]
+          ],
+          "text": "KHÁCH",
+          "boundingBox": [
+           384,
+           372,
+           556,
+           436
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            598,
+            372
+           ],
+           [
+            695,
+            369
+           ],
+           [
+            696,
+            426
+           ],
+           [
+            599,
+            429
+           ]
+          ],
+          "text": "TRÁ",
+          "boundingBox": [
+           598,
+           369,
+           696,
+           429
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         208,
+         368,
+         696,
+         442
+        ],
+        "text": "TIEN KHÁCH TRÁ"
+       },
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          243,
+          462
+         ],
+         [
+          521,
+          462
+         ],
+         [
+          521,
+          527
+         ],
+         [
+          243,
+          527
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            243,
+            462
+           ],
+           [
+            379,
+            462
+           ],
+           [
+            379,
+            525
+           ],
+           [
+            243,
+            525
+           ]
+          ],
+          "text": "TIÊN",
+          "boundingBox": [
+           243,
+           462,
+           379,
+           525
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            420,
+            462
+           ],
+           [
+            521,
+            462
+           ],
+           [
+            521,
+            527
+           ],
+           [
+            420,
+            527
+           ]
+          ],
+          "text": "MAT",
+          "boundingBox": [
+           420,
+           462,
+           521,
+           527
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         243,
+         462,
+         521,
+         527
+        ],
+        "text": "TIÊN MAT"
+       },
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          208,
+          552
+         ],
+         [
+          628,
+          552
+         ],
+         [
+          628,
+          612
+         ],
+         [
+          208,
+          612
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            208,
+            552
+           ],
+           [
+            344,
+            552
+           ],
+           [
+            344,
+            612
+           ],
+           [
+            208,
+            612
+           ]
+          ],
+          "text": "TIËN",
+          "boundingBox": [
+           208,
+           552,
+           344,
+           612
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            384,
+            552
+           ],
+           [
+            484,
+            552
+           ],
+           [
+            484,
+            608
+           ],
+           [
+            384,
+            608
+           ]
+          ],
+          "text": "TRA",
+          "boundingBox": [
+           384,
+           552,
+           484,
+           608
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            524,
+            552
+           ],
+           [
+            628,
+            552
+           ],
+           [
+            628,
+            608
+           ],
+           [
+            524,
+            608
+           ]
+          ],
+          "text": "LAI",
+          "boundingBox": [
+           524,
+           552,
+           628,
+           608
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         208,
+         552,
+         628,
+         612
+        ],
+        "text": "TIËN TRA LAI"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       200,
+       195,
+       946,
+       611
+      ],
+      "text": "TONG TIËN PHÁI T.TOÁN\nTONG\nTIEN KHÁCH TRÁ\nTIÊN MAT\nTIËN TRA LAI"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        1466,
+        184
+       ],
+       [
+        1684,
+        165
+       ],
+       [
+        1688,
+        213
+       ],
+       [
+        1470,
+        232
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          1466,
+          184
+         ],
+         [
+          1684,
+          164
+         ],
+         [
+          1688,
+          212
+         ],
+         [
+          1470,
+          232
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            1466,
+            184
+           ],
+           [
+            1684,
+            164
+           ],
+           [
+            1688,
+            212
+           ],
+           [
+            1470,
+            232
+           ]
+          ],
+          "text": "41.300",
+          "boundingBox": [
+           1466,
+           164,
+           1688,
+           232
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         1466,
+         164,
+         1688,
+         232
+        ],
+        "text": "41.300"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       1466,
+       165,
+       1688,
+       232
+      ],
+      "text": "41.300"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        387,
+        290
+       ],
+       [
+        765,
+        280
+       ],
+       [
+        767,
+        340
+       ],
+       [
+        388,
+        350
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          387,
+          290
+         ],
+         [
+          765,
+          279
+         ],
+         [
+          766,
+          339
+         ],
+         [
+          388,
+          350
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            387,
+            291
+           ],
+           [
+            520,
+            287
+           ],
+           [
+            521,
+            346
+           ],
+           [
+            388,
+            350
+           ]
+          ],
+          "text": "TIEN",
+          "boundingBox": [
+           387,
+           287,
+           521,
+           350
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            558,
+            288
+           ],
+           [
+            589,
+            287
+           ],
+           [
+            590,
+            344
+           ],
+           [
+            559,
+            345
+           ]
+          ],
+          "text": "A",
+          "boundingBox": [
+           558,
+           287,
+           590,
+           345
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            631,
+            283
+           ],
+           [
+            764,
+            279
+           ],
+           [
+            765,
+            339
+           ],
+           [
+            632,
+            343
+           ]
+          ],
+          "text": "GIM",
+          "boundingBox": [
+           631,
+           279,
+           765,
+           343
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         387,
+         279,
+         766,
+         350
+        ],
+        "text": "TIEN A GIM"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       387,
+       280,
+       767,
+       350
+      ],
+      "text": "TIEN A GIM"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        1618,
+        256
+       ],
+       [
+        1652,
+        255
+       ],
+       [
+        1654,
+        301
+       ],
+       [
+        1619,
+        302
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          1618,
+          256
+         ],
+         [
+          1652,
+          254
+         ],
+         [
+          1653,
+          300
+         ],
+         [
+          1619,
+          302
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            1618,
+            256
+           ],
+           [
+            1652,
+            254
+           ],
+           [
+            1653,
+            300
+           ],
+           [
+            1619,
+            302
+           ]
+          ],
+          "text": "0",
+          "boundingBox": [
+           1618,
+           254,
+           1653,
+           302
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         1618,
+         254,
+         1653,
+         302
+        ],
+        "text": "0"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       1618,
+       255,
+       1654,
+       302
+      ],
+      "text": "0"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        1477,
+        353
+       ],
+       [
+        1696,
+        339
+       ],
+       [
+        1705,
+        476
+       ],
+       [
+        1486,
+        491
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          1477,
+          353
+         ],
+         [
+          1696,
+          338
+         ],
+         [
+          1699,
+          387
+         ],
+         [
+          1480,
+          402
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            1477,
+            353
+           ],
+           [
+            1696,
+            338
+           ],
+           [
+            1699,
+            387
+           ],
+           [
+            1480,
+            402
+           ]
+          ],
+          "text": "41.300",
+          "boundingBox": [
+           1477,
+           338,
+           1699,
+           402
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         1477,
+         338,
+         1699,
+         402
+        ],
+        "text": "41.300"
+       },
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          1484,
+          439
+         ],
+         [
+          1699,
+          425
+         ],
+         [
+          1702,
+          477
+         ],
+         [
+          1487,
+          491
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            1484,
+            439
+           ],
+           [
+            1699,
+            425
+           ],
+           [
+            1702,
+            477
+           ],
+           [
+            1487,
+            491
+           ]
+          ],
+          "text": "41.300",
+          "boundingBox": [
+           1484,
+           425,
+           1702,
+           491
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         1484,
+         425,
+         1702,
+         491
+        ],
+        "text": "41.300"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       1477,
+       339,
+       1705,
+       491
+      ],
+      "text": "41.300\n41.300"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        492,
+        634
+       ],
+       [
+        1407,
+        608
+       ],
+       [
+        1409,
+        673
+       ],
+       [
+        493,
+        699
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          492,
+          634
+         ],
+         [
+          1407,
+          607
+         ],
+         [
+          1408,
+          672
+         ],
+         [
+          493,
+          699
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            492,
+            635
+           ],
+           [
+            621,
+            631
+           ],
+           [
+            622,
+            694
+           ],
+           [
+            493,
+            698
+           ]
+          ],
+          "text": "(Giá",
+          "boundingBox": [
+           492,
+           631,
+           622,
+           698
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            664,
+            630
+           ],
+           [
+            729,
+            628
+           ],
+           [
+            730,
+            683
+           ],
+           [
+            665,
+            685
+           ]
+          ],
+          "text": "dä",
+          "boundingBox": [
+           664,
+           628,
+           730,
+           685
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            772,
+            631
+           ],
+           [
+            873,
+            628
+           ],
+           [
+            874,
+            679
+           ],
+           [
+            773,
+            682
+           ]
+          ],
+          "text": "bao",
+          "boundingBox": [
+           772,
+           628,
+           874,
+           682
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            914,
+            623
+           ],
+           [
+            1015,
+            620
+           ],
+           [
+            1016,
+            683
+           ],
+           [
+            915,
+            686
+           ]
+          ],
+          "text": "gõm",
+          "boundingBox": [
+           914,
+           620,
+           1016,
+           686
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            1057,
+            621
+           ],
+           [
+            1194,
+            613
+           ],
+           [
+            1197,
+            670
+           ],
+           [
+            1060,
+            678
+           ]
+          ],
+          "text": "thue",
+          "boundingBox": [
+           1057,
+           613,
+           1197,
+           678
+          ]
+         },
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            1241,
+            615
+           ],
+           [
+            1407,
+            609
+           ],
+           [
+            1409,
+            672
+           ],
+           [
+            1243,
+            678
+           ]
+          ],
+          "text": "GTGT)",
+          "boundingBox": [
+           1241,
+           609,
+           1409,
+           678
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         492,
+         607,
+         1408,
+         699
+        ],
+        "text": "(Giá dä bao gõm thue GTGT)"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       492,
+       608,
+       1409,
+       699
+      ],
+      "text": "(Giá dä bao gõm thue GTGT)"
+     },
+     {
+      "confidence": null,
+      "cornerPoints": [
+       [
+        1363,
+        794
+       ],
+       [
+        1728,
+        791
+       ],
+       [
+        1729,
+        804
+       ],
+       [
+        1363,
+        807
+       ]
+      ],
+      "lines": [
+       {
+        "confidence": null,
+        "cornerPoints": [
+         [
+          1363,
+          794
+         ],
+         [
+          1728,
+          790
+         ],
+         [
+          1728,
+          803
+         ],
+         [
+          1363,
+          807
+         ]
+        ],
+        "elements": [
+         {
+          "recognizedLanguages": [],
+          "confidence": null,
+          "cornerPoints": [
+           [
+            1363,
+            794
+           ],
+           [
+            1728,
+            790
+           ],
+           [
+            1728,
+            803
+           ],
+           [
+            1363,
+            807
+           ]
+          ],
+          "text": "DOOfMMO17",
+          "boundingBox": [
+           1363,
+           790,
+           1728,
+           807
+          ]
+         }
+        ],
+        "recognizedLanguages": [],
+        "boundingBox": [
+         1363,
+         790,
+         1728,
+         807
+        ],
+        "text": "DOOfMMO17"
+       }
+      ],
+      "recognizedLanguages": [],
+      "boundingBox": [
+       1363,
+       791,
+       1729,
+       807
+      ],
+      "text": "DOOfMMO17"
+     }
+    ],
+    "text": "16.700\n9556001215932\n16.700\n1\nTONG TIËN PHÁI T.TOÁN\nTONG\nTIEN KHÁCH TRÁ\nTIÊN MAT\nTIËN TRA LAI\n41.300\nTIEN A GIM\n0\n41.300\n41.300\n(Giá dä bao gõm thue GTGT)\nDOOfMMO17"
+   }
+   
